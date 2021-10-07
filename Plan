@@ -1,0 +1,10 @@
+# Overall Plan:
+
+Since we choose topic 2(Chatbot and Voice generation model), we have planned to create a chatbot using Rasa open-source and Rasa-X.
+Later, we create a demo chatbot and we tested and trained on google colab.
+Then we have deployed our rasa chatbot to VM Instance on google cloud platform (GCP).
+Developed a chatbot using Rasa-X server.
+Create a webpage using VS code and heroku for rasa chatbot and deploy our project on google cloud platform.
+Voice will be cloned using required dataset.
+Voice cloning will also be done on VM instance on google cloud.
+Later, Develop a different webapp on VS code and heroku and deploy our voice trained model to google cloud platform.
