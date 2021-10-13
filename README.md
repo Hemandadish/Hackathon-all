@@ -7,6 +7,9 @@ This repo is based on the Rasa demo chatbot(Lufy) that can provide the details o
 
 ! Python 3.6 or 3.7 version
 ! Pip installation
+! Google Cloud Platform
+! VM instance
+! RASA X
 
 # Dependencies:
 
