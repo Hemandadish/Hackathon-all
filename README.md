@@ -7,7 +7,7 @@ This repo is based on the Rasa demo chatbot(LufyBot) that can provide the detail
 Cloned voices of APJ, Trump, Hemand and Ashik have been uploaded. Voice synthesizer have been made on colab notebook to attain more accuracy over the cloned voices.
 We have even uploaded the spectrogram of the trained and cloned voices. 
 
-This repo is also based on the cloned voices of the persons that we've mentionedd above.
+This repo is also based on the cloned voices of the persons that we've mentioned above.
 
 # Installation Requirements:
 
