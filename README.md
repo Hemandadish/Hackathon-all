@@ -12,17 +12,27 @@ This repo is also based on the cloned voices of the persons that we've mentioned
 # Installation Requirements:
 
 ! Python 3.6 or 3.7 version
+
 ! Pip installation
+
 ! Google Cloud Platform
+
 ! VM instance
+
 ! RASA X
+
 ! Anaconda3
 
 # Dependencies:
 
 ! Google cloud platform
+
 ! VM instance
+
 ! Google Colab
+
 ! Rasa-X server
+
 ! VS code
+
 ! Jupyter notebook
